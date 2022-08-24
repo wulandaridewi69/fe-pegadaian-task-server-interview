@@ -1,0 +1,89 @@
+{
+  "data": [{
+    "id": 1,
+      "tanggal_pelaksanaan": "2021-03-03",
+      "waktu_awal_pelaksanaan": "10.00",
+      "waktu_akhir_pelaksanaan": "12.00",
+      "tempat_pelaksanaan": "https://meeet.google.com/rbj-uuxn-pgi",
+      "media": "Gmeet",
+      "peserta": [{
+        "id": 1,
+        "nama": "Affief Sudarmadji",
+        "tanggal_lahir": "1980-01-31",
+        "pendidikan_terakhir": "D4",
+        "link_cv": "https://meeet.google.com/rbj-uuxn-pgi"
+      }]
+    },
+    {
+      "id": 2,
+      "tanggal_pelaksanaan": "2021-03-04",
+      "waktu_awal_pelaksanaan": "10.00",
+      "waktu_akhir_pelaksanaan": "12.00",
+      "tempat_pelaksanaan": "https://meeet.google.com/rbj-uuxn-pgi",
+      "media": "Gmeet",
+      "peserta": [{
+        "id": 2,
+        "nama": "Fahmi Wahyudi",
+        "tanggal_lahir": "1992-03-01",
+        "pendidikan_terakhir": "D4",
+        "link_cv": "https://meeet.google.com/rbj-uuxn-pgi"
+      }]
+    },
+    {
+      "id": 3,
+      "tanggal_pelaksanaan": "2021-03-05",
+      "waktu_awal_pelaksanaan": "10.00",
+      "waktu_akhir_pelaksanaan": "12.00",
+      "tempat_pelaksanaan": "https://meeet.google.com/rbj-uuxn-pgi",
+      "media": "Gmeet",
+      "peserta": [{
+        "id": 3,
+        "nama": "Moh. Gifari Yeri",
+        "tanggal_lahir": "1995-02-28",
+        "pendidikan_terakhir": "S1",
+        "link_cv": "https://meeet.google.com/rbj-uuxn-pgi"
+      }, {
+        "id": 6,
+        "nama": "Tubagus Danny",
+        "tanggal_lahir": "1998-03-03",
+        "pendidikan_terakhir": "D4",
+        "link_cv": "https://meeet.google.com/rbj-uuxn-pgi"
+      },{
+        "id": 7,
+        "nama": "Rosmala",
+        "tanggal_lahir": "1999-03-03",
+        "pendidikan_terakhir": "S1",
+        "link_cv": "https://meeet.google.com/rbj-uuxn-pgi"
+      }]
+    },
+    {
+      "id": 4,
+      "tanggal_pelaksanaan": "2021-03-06",
+      "waktu_awal_pelaksanaan": "10.00",
+      "waktu_akhir_pelaksanaan": "12.00",
+      "tempat_pelaksanaan": "https://meeet.google.com/rbj-uuxn-pgi",
+      "media": "Gmeet",
+      "peserta": [{
+        "id": 4,
+        "nama": "Gabe Dimas",
+        "tanggal_lahir": "1994-01-31",
+        "pendidikan_terakhir": "S2",
+        "link_cv": "https://meeet.google.com/rbj-uuxn-pgi"
+      }]
+    },
+    { "id": 5,
+      "tanggal_pelaksanaan": "2021-04-05",
+      "waktu_awal_pelaksanaan": "13.00",
+      "waktu_akhir_pelaksanaan": "15.00",
+      "tempat_pelaksanaan": "https://meeet.google.com/rbj-uuxn-pgi",
+      "media": "Gmeet",
+      "peserta": [{
+        "id": 5,
+        "nama": "Aristio Rozki",
+        "tanggal_lahir": "1992-01-31",
+        "pendidikan_terakhir": "D4",
+        "link_cv": "https://meeet.google.com/rbj-uuxn-pgi"
+      }]
+    }
+  ]
+}
